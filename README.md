@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshal Rathod
 - 👀 I’m interested in Frontend Developent
 - 🌱 I’m currently learning React-Native
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/harshalrathod0802/
+- 📫 Linkedin: https://www.linkedin.com/in/harshalrathod0802/
 
 <!---
 Harshal0802/Harshal0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
