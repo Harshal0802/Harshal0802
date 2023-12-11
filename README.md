@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshal Rathod
 - 👀 I’m interested in Frontend Developer
-- 📫 Tech Stack: ReactJS, JavaScript, React-Native, TypeScript
+- 📫 Tech Stack: ReactJS, JavaScript, TypeScript, React-Native
 - 🌱 I’m currently learning Backend Development
 - 📫 Linkedin: https://www.linkedin.com/in/harshalrathod0802/
 
